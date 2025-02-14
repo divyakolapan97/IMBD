@@ -1,9 +1,9 @@
 # IMBD
-###IMDB 2024 Data Scraping and Visualizations
-###Project Title
+# IMDB 2024 Data Scraping and Visualizations
+# Project Title
 IMDB 2024 Data Scraping and Visualizations
 
-####Skills Learned from This Project
+# Skills Learned from This Project
 Selenium
 Python
 Pandas
@@ -16,10 +16,10 @@ Interactive Filter Applications
 Domain
 Entertainment / Data Analytics
 
-###Problem Statement
+# Problem Statement
 This project focuses on extracting and analyzing movie data from IMDb for the year 2024. The task involves scraping movie details such as movie names, genres, ratings, voting counts, and durations from IMDb's 2024 movie list using Selenium. The data will be organized by genre, saved as individual CSV files, and then merged into a single dataset stored in an SQL database. Finally, the project will provide interactive visualizations and filtering functionality using Streamlit to allow users to explore the dataset.
 
-###Dataset
+# Dataset
 
 Movie Name
 Genre
@@ -28,8 +28,7 @@ Voting Counts
 Duration
 The dataset is scraped from IMDb's 2024 movie list, organized genre-wise, and stored in both CSV files and an SQL database for querying and analysis.
 
-###
-Technical Tags
+# Technical Tags
 Languages: Python
 Database: MySQL/PostgreSQL
 Visualization Tools: Streamlit
